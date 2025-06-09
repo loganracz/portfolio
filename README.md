@@ -27,6 +27,6 @@ Demonstrated ability to communicate thoroughly and work effectively in a team se
 #### Awards
 Dean’s List: University of Vermont - Fall 2015, Montana State - Fall 2024
 
-(/assets/img/datafest_logo_Montana State.png)
+DataFest(/assets/img/datafest_logo_Montana State.png)
 
 Montana State DataFest 2025: Awarded Best Visualization and Best Insight for the creation of visuals detailing corporate real estate coasts across the United States. 
